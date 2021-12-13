@@ -1,0 +1,19 @@
+body { 
+  text-align: center;
+  background-color: steelBlue;
+  font-family: Arial;
+  font-size: 30px;  
+  color: white;
+}
+
+button{
+background: navy;
+color: white;
+border: solid white;
+border-radius: 20px;
+cursor:pointer;
+font-size: 20px;
+padding:18px 10px;
+width:180px;
+margin: 10px;
+}
